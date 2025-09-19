@@ -1,5 +1,9 @@
 <!-- ⚡ Flashy Electrical Engineering GitHub Profile README for Jack Street -->
 
+<h1 align="center">
+  Hi, I'm Jack <span style="font-size: 1.5em;">👋</span>
+</h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Electricity Animation" width="220"/>
 </p>
@@ -22,8 +26,8 @@
 
 <h2 align="center" style="background: linear-gradient(90deg, #00fff7, #ff00d4); -webkit-background-clip: text; color: transparent;">About Me</h2>
 
-- 🎓 Electrical Engineering student passionate about power systems, embedded systems & robotics  
-- 🔭 Currently working on a **Smart Home Automation** project with Arduino  
+- 🎓 Electrical Engineering student passionate about embedded systems, low power electronics and space systems.
+- 🏎️ Currently working on electromagnetic generator to power headlights on my go kart.
 - 📫 Reach me at [j.m.street940@gmail.com](j.m.street940@gmail.com)
 
 ---
@@ -39,14 +43,4 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-</p>
-
-
-
-
-
----
-
-<p align="center" style="font-style: italic; font-weight: 600; color:#ff00d4;">
-  “I'm on an agressive cut from 85kg to 78kg” – Prakhar Srivastav
 </p>
